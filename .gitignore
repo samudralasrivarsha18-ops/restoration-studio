@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+weights/*.pth
+static/uploads/*
+!static/uploads/.gitkeep
+static/results/*
+!static/results/.gitkeep
+.venv/
+venv/
